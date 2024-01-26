@@ -38,3 +38,4 @@ switch(diaSem) {
     default:
         console.log('[ERRO] Dia Inválido!')
 }
+// estou apenas testando colocando esse comentário
